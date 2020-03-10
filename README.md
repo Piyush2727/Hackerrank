@@ -1,1 +1,3 @@
-# fuzzypiyush
+# naive bayes
+sckit learn classification
+
